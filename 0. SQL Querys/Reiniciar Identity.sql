@@ -1,0 +1,1 @@
+DBCC CHECKIDENT ('aux_clientes', RESEED, 16330)
